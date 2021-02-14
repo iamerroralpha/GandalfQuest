@@ -23,6 +23,12 @@ El scrapper crea "homes.db", y una carpeta con imágenes de las casas, la bd tie
 12. número de baños
 13. ruta de la imagen
 
+# Scrapper con multiprocesamiento
+
+		python3 parallel_adventure.py
+		
+Ambos cripts muestran el tiempo que tardan en correr, con multiprocesos es mucho más rápido.
+
 # Cargar los datos a dataframe de pandas
 
 
